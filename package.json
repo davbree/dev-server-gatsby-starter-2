@@ -14,8 +14,7 @@
     "serve": "gatsby serve",
     "clean": "gatsby clean",
     "format": "prettier --write \"{gatsby-*.js,src/**/*.js}\"",
-    "plop": "plop",
-    "postinstall": "echo \"!! POSTINSTALL\" && node -e \"console.log(process.env)\""
+    "plop": "plop"
   },
   "dependencies": {
     "@netlify/plugin-gatsby": "^3.8.0",
